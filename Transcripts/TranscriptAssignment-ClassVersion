@@ -1,0 +1,193 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.000
+Elliott Hedman: Hey, Sam!
+
+2
+00:00:02.500 --> 00:00:03.500
+Sam: Hello!
+
+3
+00:00:04.000 --> 00:00:08.000
+Elliott Hedman: The thing that would probably be most useful, if you want something to do this week, is to get used to and start practicing Vibe coding interfaces.
+
+4
+00:00:08.500 --> 00:00:15.000
+Elliott Hedman: That way you could edit the one we have right now, instead of having to say, I don't know how to touch that thing.
+
+5
+00:00:16.000 --> 00:00:28.000
+Elliott Hedman: Because we have kind of a stall out here, I suggest you try to get Cursor up and running, try to actually build a website, and just play around with it. You have me here right now—pretty low stress time to walk you through it.
+
+6
+00:00:29.000 --> 00:00:31.000
+Sam: How do you get it onto a website after that?
+
+7
+00:00:32.000 --> 00:00:38.000
+Elliott Hedman: Your job will be to make an actual website. I'll give you an example of something you could make.
+
+8
+00:00:39.000 --> 00:00:48.000
+Elliott Hedman: I want you to learn it. No pressure—this is learning time, so do it at your pace. Ask me every single question you can, and let's document it, because you're not the last person I'm going to have to teach this.
+
+9
+00:00:49.000 --> 00:00:52.000
+Elliott Hedman: I'm thinking your goal could be to make a webpage on how to do this.
+
+10
+00:00:53.000 --> 00:00:55.000
+Sam: To teach people how to do it.
+
+11
+00:00:56.000 --> 00:01:08.000
+Elliott Hedman: Yeah. When I give you information, they don't have to go watch hour-long recordings—you document it and create it yourself. You'll be the best at making that, because I'm an engineering background; the type of questions I ask are completely different than a traditional UX position.
+
+12
+00:01:09.000 --> 00:01:18.000
+Elliott Hedman: To answer your question: we first have to look at Vercel. Jeff really loves that I use Vercel. Vercel is basically a way to host your websites, and you can link it to GitHub.
+
+13
+00:01:19.000 --> 00:01:21.000
+Sam: I don't know a lot about GitHub.
+
+14
+00:01:22.000 --> 00:01:28.000
+Elliott Hedman: Neither did I six months ago. Now I can make my own websites. It's not that hard.
+
+15
+00:01:29.000 --> 00:01:35.000
+Elliott Hedman: You need to learn about GitHub, Vercel, and then Cursor. You need to learn how to use Cursor.
+
+16
+00:01:36.000 --> 00:01:42.000
+Elliott Hedman: Cursor is a way to make these webpages—like Claude Code. You can use Cursor; it's more popular with a lot of people. Cursor and Claude Code are similar in that way.
+
+17
+00:01:43.000 --> 00:01:48.000
+Sam: So what's the difference between Claude and Cursor?
+
+18
+00:01:49.000 --> 00:02:02.000
+Elliott Hedman: Claude and Claude Code are completely different. They have the same intelligence, but they do completely different things. The way to think about Claude Code, which is kind of like Cursor: imagine you don't ever have to put in text input anymore, and it just immediately starts making files and editing those files without you having to copy and paste.
+
+19
+00:02:03.000 --> 00:02:08.000
+Elliott Hedman: The presentation I made yesterday had 3,000 files in it. I didn't touch any of those.
+
+20
+00:02:09.000 --> 00:02:16.000
+Elliott Hedman: I didn't code any of them, and I didn't do any graphic design. That's the magic of Cursor or Claude Code. Cursor's the same kind of thing as Claude Code.
+
+21
+00:02:17.000 --> 00:02:24.000
+Elliott Hedman: Cursor can use Gemini, which does a better job with the visual stuff. You'll probably want to learn both at some point, but we might as well start with the one that's a little better on visual stuff. It's a little easier to use, I think.
+
+22
+00:02:25.000 --> 00:02:27.000
+Sam: Is it desktop or anything?
+
+23
+00:02:28.000 --> 00:02:30.000
+Elliott Hedman: Yeah, it's an app. You're just gonna install it.
+
+24
+00:02:31.000 --> 00:02:38.000
+Elliott Hedman: Probably one of the first things I'll have you do is learn how to transcribe this conversation. That's a good one to learn too.
+
+25
+00:02:39.000 --> 00:02:52.000
+Elliott Hedman: What you're gonna need to do: One, create a GitHub repository. Ask Igor for that. In your tutorial, document it so you're explaining to other people how to do it. You might want to say: also ask Igor for a username if you don't have one—a lot of people won't even have GitHub.
+
+26
+00:02:53.000 --> 00:02:55.000
+Sam: I think I have one.
+
+27
+00:02:56.000 --> 00:03:02.000
+Elliott Hedman: I'm saying that for the documentation. You have it, but a lot of people didn't when they started.
+
+28
+00:03:03.000 --> 00:03:12.000
+Elliott Hedman: So: set up GitHub, then install Cursor. Ask Igor for a Cursor account as well. You might sign in with work credentials. Igor will help you set that up—document the process.
+
+29
+00:03:13.000 --> 00:03:22.000
+Elliott Hedman: Then: take this Zoom call transcript and have it summarize what tasks you need to do. As a practice in Cursor, make sure you can do that.
+
+30
+00:03:23.000 --> 00:03:35.000
+Elliott Hedman: After that, have it make a website. When you make a website, make it with React. That's very important. Are you familiar with React at all?
+
+31
+00:03:36.000 --> 00:03:37.000
+Sam: No.
+
+32
+00:03:38.000 --> 00:03:48.000
+Elliott Hedman: If you just make a regular website, you get 2,000 lines of just HTML code. That gets really hard for the AI to understand. What React does is it makes everything into its own unique component.
+
+33
+00:03:49.000 --> 00:03:55.000
+Elliott Hedman: Say: make a website with React and TypeScript. You can just say that. "Please make a website with React and TypeScript."
+
+34
+00:03:56.000 --> 00:04:06.000
+Elliott Hedman: That will be your playground where you can start having it make the website and experiment with how to get it to do what you want. Then start making the tutorial.
+
+35
+00:04:07.000 --> 00:04:14.000
+Elliott Hedman: After you've built it, we'll talk about Vercel. The other thing: you need to link this website to the GitHub repository. Link those two together.
+
+36
+00:04:15.000 --> 00:04:20.000
+Elliott Hedman: You can go into Cursor and tell the AI you want to do it, and it'll walk you through it.
+
+37
+00:04:21.000 --> 00:04:28.000
+Elliott Hedman: You're gonna mess up and run into a bunch of problems—I just don't know what they are. Ping me and we'll figure it out. The thing you're gonna build is so the next person doesn't have to get it explained from scratch.
+
+38
+00:04:29.000 --> 00:04:32.000
+Elliott Hedman: That's step one. We can do the next things after that.
+
+39
+00:04:33.000 --> 00:04:35.000
+Sam: Yeah, let's do this first.
+
+40
+00:04:36.000 --> 00:04:42.000
+Elliott Hedman: When it gets done, it gets done. Could take two weeks, could take today. This is gonna be the most essential skill you'll have here right now.
+
+41
+00:04:43.000 --> 00:04:46.000
+Elliott Hedman: Everyone's building with AI. This is how you do it with AI.
+
+42
+00:04:47.000 --> 00:04:55.000
+Elliott Hedman: This is gonna be a good project because when you have time, you can do it—it's not a rushed deadline. This is gonna serve the greater community. We need this.
+
+43
+00:04:56.000 --> 00:05:04.000
+Elliott Hedman: The next questions you'll have: How do we put it in Vercel? How do we connect this to Figma? How do I edit Figma, put it into the document, go back? How do I import a library from Figma? There's a whole bunch of other stuff. Get used to the tools first.
+
+44
+00:05:05.000 --> 00:05:08.000
+Sam: This is good, thank you.
+
+45
+00:05:09.000 --> 00:05:14.000
+Elliott Hedman: Feel free to ask me questions directly. You can also ask the group—everyone is open to helping. Or just message me if you prefer.
+
+46
+00:05:15.000 --> 00:05:18.000
+Sam: Cool, thank you. I appreciate it.
+
+47
+00:05:19.000 --> 00:05:22.000
+Elliott Hedman: Just ping me. You'll run into a bunch of problems that I don't even know about. Yeah.
+
+48
+00:05:23.000 --> 00:05:25.000
+Sam: Thank you! Bye.
